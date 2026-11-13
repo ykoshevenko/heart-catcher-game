@@ -1,0 +1,9 @@
+{
+  "name": "heart-catcher-tg-widget",
+  "version": "1.0.0",
+  "description": "Telegram Mini App Heart Catcher Game",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
